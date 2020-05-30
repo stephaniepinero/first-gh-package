@@ -1,0 +1,20 @@
+{
+  "name": "first-gh-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stephanie Piñero",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephaniepinero/first-gh-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@stephaniepinero"
+  }
+}
+
